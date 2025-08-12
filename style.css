@@ -1,0 +1,61 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.5;
+    padding: 15px;
+}
+
+/* Header */
+header {
+    background-color: #4a90e2;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.subtitle {
+    opacity: 0.8;
+    font-size: 0.9rem;
+}
+
+/* Intro Section */
+.intro {
+    background-color: white;
+    padding: 15px;
+    margin-top: 15px;
+    border: 1px solid #ddd;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 2px 4px;
+}
+
+.faded-text {
+    opacity: 0.6;
+}
+
+/* Tips Section */
+.tips {
+    background-color: white;
+    padding: 15px;
+    margin-top: 15px;
+    border: 1px solid #ddd;
+}
+
+ul {
+    margin-top: 10px;
+}
+
+li {
+    margin-bottom: 5px;
+}
